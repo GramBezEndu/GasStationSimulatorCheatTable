@@ -232,7 +232,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>188</ID>
-          <Description>"InGame"</Description>
+          <Description>"In Game"</Description>
           <Options moHideChildren="1"/>
           <LastState Value="" RealAddress="00000000"/>
           <Color>008000</Color>
@@ -787,7 +787,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>186</ID>
-          <Description>"InGame"</Description>
+          <Description>"In Game"</Description>
           <Options moHideChildren="1"/>
           <LastState Value="" RealAddress="00000000"/>
           <Color>008000</Color>
