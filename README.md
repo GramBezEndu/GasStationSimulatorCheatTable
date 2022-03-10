@@ -13,9 +13,3 @@
 * Current fuel capacity (float)
 * In Game Time (float)
 * In Game flag (bool)
-
-## What if my game version is not supported?
-Do one of the following:
-* Create issue in this repository
-* Join "DRAGO Community" discord and contact me
-* Comment on one of my videos on my [youtube](https://www.youtube.com/user/GramBezEndu) channel
