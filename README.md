@@ -4,6 +4,7 @@
 ## Supported game versions:
 * 1.0.1.37938
 * 1.0.1.38259
+* 1.0.2.47529
 
 ## Available data:
 * Cash (float)
