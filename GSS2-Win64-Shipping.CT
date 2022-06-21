@@ -241,7 +241,7 @@
             <CheatEntry>
               <ID>119</ID>
               <Description>"Path"</Description>
-              <LastState Value="0" RealAddress="7FF634474A06"/>
+              <LastState Value="0" RealAddress="7FF65C824A06"/>
               <Color>000000</Color>
               <VariableType>Byte</VariableType>
               <Address>"GSS2-Win64-Shipping.exe"+3FD4A06</Address>
@@ -451,7 +451,7 @@
                 <CheatEntry>
                   <ID>102</ID>
                   <Description>"Position X"</Description>
-                  <LastState Value="0" RealAddress="7FF634597610"/>
+                  <LastState Value="0" RealAddress="7FF65C947610"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Float</VariableType>
@@ -460,7 +460,7 @@
                 <CheatEntry>
                   <ID>101</ID>
                   <Description>"Position Y"</Description>
-                  <LastState Value="0" RealAddress="7FF634597614"/>
+                  <LastState Value="0" RealAddress="7FF65C947614"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Float</VariableType>
@@ -469,7 +469,7 @@
                 <CheatEntry>
                   <ID>100</ID>
                   <Description>"Position Z"</Description>
-                  <LastState Value="-8.825418213E27" RealAddress="7FF634597618"/>
+                  <LastState Value="5.089884546E-23" RealAddress="7FF65C947618"/>
                   <Color>008000</Color>
                   <VariableType>Float</VariableType>
                   <Address>"GSS2-Win64-Shipping.exe"+40F7618</Address>
@@ -800,7 +800,7 @@
             <CheatEntry>
               <ID>187</ID>
               <Description>"Path"</Description>
-              <LastState Value="0" RealAddress="7FF6344865C6"/>
+              <LastState Value="0" RealAddress="7FF65C8365C6"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Byte</VariableType>
               <Address>"GSS2-Win64-Shipping.exe"+3FE65C6</Address>
@@ -851,7 +851,7 @@
             <CheatEntry>
               <ID>190</ID>
               <Description>"Path"</Description>
-              <LastState Value="0" RealAddress="137CA73DF5C"/>
+              <LastState Value="450" RealAddress="1B1463E075C"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Float</VariableType>
               <Address>"GSS2-Win64-Shipping.exe"+041B17A0</Address>
@@ -876,7 +876,7 @@
             <CheatEntry>
               <ID>195</ID>
               <Description>"Path"</Description>
-              <LastState Value="0" RealAddress="137CF238AB8"/>
+              <LastState Value="0" RealAddress="1B157065A98"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Float</VariableType>
               <Address>"GSS2-Win64-Shipping.exe"+041B17A0</Address>
@@ -901,7 +901,7 @@
             <CheatEntry>
               <ID>200</ID>
               <Description>"Path"</Description>
-              <LastState Value="0" RealAddress="137C306A800"/>
+              <LastState Value="0" RealAddress="1B112589D60"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Float</VariableType>
               <Address>"GSS2-Win64-Shipping.exe"+041C7840</Address>
@@ -923,7 +923,7 @@
             <CheatEntry>
               <ID>201</ID>
               <Description>"Path"</Description>
-              <LastState Value="0" RealAddress="137C306A8F8"/>
+              <LastState Value="0" RealAddress="1B112589E58"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>"GSS2-Win64-Shipping.exe"+041C7840</Address>
@@ -945,7 +945,7 @@
             <CheatEntry>
               <ID>205</ID>
               <Description>"Path"</Description>
-              <LastState Value="0" RealAddress="137CA73DF54"/>
+              <LastState Value="0" RealAddress="1B1463E0754"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Float</VariableType>
               <Address>"GSS2-Win64-Shipping.exe"+041B17A0</Address>
@@ -968,10 +968,16 @@
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
-              <ID>212</ID>
+              <ID>215</ID>
               <Description>"Path"</Description>
+              <LastState Value="647.993103" RealAddress="1B1125898AC"/>
+              <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Float</VariableType>
-              <Address>244DE95B88C</Address>
+              <Address>"GSS2-Win64-Shipping.exe"+041C7840</Address>
+              <Offsets>
+                <Offset>2EC</Offset>
+                <Offset>130</Offset>
+              </Offsets>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
@@ -986,7 +992,7 @@
             <CheatEntry>
               <ID>211</ID>
               <Description>"Path"</Description>
-              <LastState Value="1" RealAddress="7FF634526AC6"/>
+              <LastState Value="0" RealAddress="7FF65C8D6AC6"/>
               <VariableType>Byte</VariableType>
               <Address>"GSS2-Win64-Shipping.exe"+4086AC6</Address>
             </CheatEntry>
